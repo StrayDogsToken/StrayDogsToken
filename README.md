@@ -1,3 +1,23 @@
+# 🐕 Stray Dogs ($SYDOGS) - Rescuing Lives, One Token at a Time 🐕  
+
+🚀 Welcome to the official **Stray Dogs ($SYDOGS)** profile!  
+💎 **The memecoin with a real purpose**: Every transaction helps animal shelters and independent rescuers.  
+📢 **Join the pack and be part of the change!**  
+
+---
+
+## 🌟 **What is Stray Dogs ($SYDOGS)?**
+Stray Dogs ($SYDOGS) is a **community-driven cryptocurrency** with a clear mission: **support stray dogs and shelters worldwide** through automatic donations with every transaction.  
+
+🐶 **Every buy and sell helps save lives.**  
+🔥 **Scheduled burn events** to increase token scarcity.  
+🎁 **Collectible and reward NFTs** to promote pet adoption.  
+💰 **Staking and exclusive benefits** for dedicated holders.  
+
+📍 **Explore more at:** [www.sydogs.io](https://www.sydogs.io)  
+
+---
+
 ## 📜 **Whitepaper & Documentation**
 📖 Our whitepaper details the project's vision, tokenomics, and strategy.  
 🔗 **Read it here:** [GitBook Whitepaper](https://github.com/StrayDogs/whitepaper)  
@@ -26,8 +46,7 @@
 🎯 **Stray Dogs ($SYDOGS) – More than a token, a global movement.**  
 🔥 **#StrayDogs #CryptoForGood #SYDOGS**  
 
-
-----------
+________________________________________________________________________________________________________
 
 
 # 🐕 Stray Dogs ($SYDOGS) - Rescatando Vidas, Un Token a la Vez 🐕  
@@ -77,23 +96,3 @@ Stray Dogs ($SYDOGS) es una criptomoneda impulsada por la comunidad con un prop�
 
 🎯 **Stray Dogs ($SYDOGS) – Más que un token, un movimiento global.**  
 🔥 **#StrayDogs #CryptoForGood #SYDOGS**  
-
----
-
-# 🐕 Stray Dogs ($SYDOGS) - Rescuing Lives, One Token at a Time 🐕  
-
-🚀 Welcome to the official **Stray Dogs ($SYDOGS)** profile!  
-💎 **The memecoin with a real purpose**: Every transaction helps animal shelters and independent rescuers.  
-📢 **Join the pack and be part of the change!**  
-
----
-
-## 🌟 **What is Stray Dogs ($SYDOGS)?**
-Stray Dogs ($SYDOGS) is a **community-driven cryptocurrency** with a clear mission: **support stray dogs and shelters worldwide** through automatic donations with every transaction.  
-
-🐶 **Every buy and sell helps save lives.**  
-🔥 **Scheduled burn events** to increase token scarcity.  
-🎁 **Collectible and reward NFTs** to promote pet adoption.  
-💰 **Staking and exclusive benefits** for dedicated holders.  
-
-📍 **Explore more at:** [www.sydogs.io](https://www.sydogs.io)  
