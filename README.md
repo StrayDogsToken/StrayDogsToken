@@ -1,4 +1,4 @@
-# 🐕 Stray Dogs ($SYDOGS) - Rescuing Lives, One Token at a Time 🐕  
+# 🐕 Stray Dogs ($SYDOGS) - Rescuing Lives, One Token at a Time
 
 🚀 Welcome to the official **Stray Dogs ($SYDOGS)** profile!  
 💎 **The memecoin with a real purpose**: Every transaction helps animal shelters and independent rescuers.  
@@ -49,7 +49,7 @@ Stray Dogs ($SYDOGS) is a **community-driven cryptocurrency** with a clear missi
 ________________________________________________________________________________________________________
 
 
-# 🐕 Stray Dogs ($SYDOGS) - Rescatando Vidas, Un Token a la Vez 🐕  
+# 🐕 Stray Dogs ($SYDOGS) - Rescatando Vidas, Un Token a la Vez
 
 🚀 Bienvenidos al perfil oficial de **Stray Dogs ($SYDOGS)**  
 💎 **La memecoin con propósito real**: Cada transacción ayuda a refugios de animales y rescatistas independientes.  
