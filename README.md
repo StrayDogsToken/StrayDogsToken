@@ -28,7 +28,7 @@ Stray Dogs ($SYDOGS) is a **community-driven cryptocurrency** with a clear missi
 📢 **Join our community and be part of the movement:**  
 
 🐕 **Telegram:** [t.me/SYDOGS](https://t.me/SYDOGS)  
-🐦 **Twitter/X:** [x.com/StrayDogs_token](https://x.com/StrayDogs_token)  
+🐦 **Twitter/X:** [x.com/sydogs_bnb](https://x.com/sydogs_bnb)  
 📷 **Instagram:** [instagram.com/straydogs_token](https://www.instagram.com/straydogs_token)  
 📌 **Pinterest:** [pinterest.com/StrayDogs_token](https://ar.pinterest.com/StrayDogs_token/)  
 🎥 **YouTube:** [youtube.com/@STRAYDOGS-Token](https://www.youtube.com/@STRAYDOGS-Token)  
@@ -79,7 +79,7 @@ Stray Dogs ($SYDOGS) es una criptomoneda impulsada por la comunidad con un prop�
 📢 **Únete a nuestra comunidad y sé parte del movimiento:**  
 
 🐕 **Telegram:** [t.me/SYDOGS](https://t.me/SYDOGS)  
-🐦 **Twitter/X:** [x.com/StrayDogs_token](https://x.com/StrayDogs_token)  
+🐦 **Twitter/X:** [x.com/sydogs_bnb](https://x.com/sydogs_bnb)  
 📷 **Instagram:** [instagram.com/straydogs_token](https://www.instagram.com/straydogs_token)  
 📌 **Pinterest:** [pinterest.com/StrayDogs_token](https://ar.pinterest.com/StrayDogs_token/)  
 🎥 **YouTube:** [youtube.com/@STRAYDOGS-Token](https://www.youtube.com/@STRAYDOGS-Token)  
