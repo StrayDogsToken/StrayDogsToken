@@ -1,90 +1,135 @@
-# 🐕 Stray Dogs | $SYDOGS - Rescuing Lives, One Token at a Time
+# 🐾 Stray Dogs | $SYDOGS – Rescuing Lives, One Token at a Time
 
-🚀 Welcome to the official **Stray Dogs | $SYDOGS** profile!  
-💎 **The memecoin with a real purpose**: Every transaction helps animal shelters and independent rescuers.  
-📢 **Join the pack and be part of the change!**  
-
----
-
-## 🌟 **What is Stray Dogs | $SYDOGS?**
-Stray Dogs | $SYDOGS is a **community-driven cryptocurrency** with a clear mission: **support stray dogs and shelters worldwide** through automatic donations with every transaction.  
-
-🐶 **Every buy and sell helps save lives.**  
-🔥 **Scheduled burn events** to increase token scarcity.  
-🎁 **Collectible and reward NFTs** to promote pet adoption.  
-💰 **Staking and exclusive benefits** for dedicated holders.  
-
-📍 **Explore more at:** [www.sydogs.io](https://www.sydogs.io)  
+🚀 Welcome to the official **Stray Dogs | $SYDOGS** GitHub repository.  
+💎 **The memecoin with a real purpose**: Each transaction supports real-world animal shelters and independent rescuers.  
+📢 **Join the pack and be part of the change!**
 
 ---
 
-## 📜 **Whitepaper & Documentation**
-📖 Our whitepaper details the project's vision, tokenomics, and strategy.  
-🔗 **Read it here:** [GitBook Whitepaper](https://github.com/StrayDogs/whitepaper)  
+## 🌍 What is Stray Dogs | $SYDOGS?
+
+Stray Dogs | $SYDOGS is a **Web3 ecosystem** built on **BNB Chain**, designed to fund and promote the **adoption of stray dogs** worldwide through blockchain technology, NFTs, community engagement and direct donations.
+
+🎯 Purpose: Rescue dogs, support shelters, and bring social impact through crypto.  
+🐕 NFTs: Reward adoption, staking, discounts & exclusive access.  
+💰 Tokenomics: Sustainable, anti-dump model with fair vesting & periodic burns.  
+🧬 Community: Global, multilingual, and mission-driven.
+
+Explore more: [www.sydogs.io](https://www.sydogs.io)
 
 ---
 
-## 🚀 **Social Media & Community**
-📢 **Join our community and be part of the movement:**  
+## 📊 Tokenomics Overview
 
-🐕 **Telegram:** [t.me/SYDOGS](https://t.me/SYDOGS)  
-🐦 **Twitter/X:** [x.com/sydogs_bnb](https://x.com/sydogs_bnb)  
-📷 **Instagram:** [instagram.com/straydogs_token](https://www.instagram.com/straydogs_token)  
-📌 **Pinterest:** [pinterest.com/StrayDogs_token](https://ar.pinterest.com/StrayDogs_token/)  
-🎥 **YouTube:** [youtube.com/@STRAYDOGS-Token](https://www.youtube.com/@STRAYDOGS-Token)  
-
-💙 **Join us and be part of the Stray Dogs revolution!**  
-
----
-
-## 💡 **Support & Contributions**
-🤝 We welcome code contributions and collaborations to improve the Stray Dogs ecosystem.  
-🐕‍🦺 If you want to contribute or have any questions, open an **issue** in this repository or contact us on Telegram.  
+| Category         | Allocation | Vesting / Notes                         |
+|------------------|------------|------------------------------------------|
+| 🔄 Prelaunch     | 40%        | Public sale on DxSale                   |
+| 💧 Liquidity     | 15%        | Locked                                  |
+| 🌍 CEX & Community | 6%       | Exchange listings + airdrops            |
+| 🐶 NFTs & Staking | 9%        | Rewards for adoption & holding NFTs     |
+| ❤️ Charity Fund  | 20%        | 5% monthly unlock, for real donations   |
+| 📢 Marketing      | 5%         | For awareness, not speculation          |
+| 👥 Team           | 5%         | Locked 12 months, then gradual release  |
 
 ---
 
-🎯 **Stray Dogs | $SYDOGS – More than a token, a global movement.**  
-🔥 **#StrayDogs #CryptoForGood #SYDOGS**  
+## 📄 Documentation (PDF)
 
-________________________________________________________________________________________________________
+You can download the official documentation from the `/docs` folder:
 
-
-# 🐕 Stray Dogs | $SYDOGS - Rescatando Vidas, Un Token a la Vez
-
-🚀 Bienvenidos al perfil oficial de **Stray Dogs | $SYDOGS**  
-💎 **La memecoin con propósito real**: Cada transacción ayuda a refugios de animales y rescatistas independientes.  
-📢 **Únete a la manada y sé parte del cambio.**  
+- 📘 [Whitepaper_SYDOGS_v1.0_2025.pdf](./docs/Whitepaper_SYDOGS_v1.0_2025.pdf)
+- 📊 [Tokenomics_SYDOGS_v1.0_2025.pdf](./docs/Tokenomics_SYDOGS_v1.0_2025.pdf)
+- 🗺️ [Roadmap_SYDOGS_2025Q2.pdf](./docs/Roadmap_SYDOGS_2025Q2.pdf)
 
 ---
 
-## 🌟 **¿Qué es Stray Dogs | $SYDOGS?**
-Stray Dogs | $SYDOGS es una criptomoneda impulsada por la comunidad con un propósito claro: **apoyar a los perros callejeros** y refugios alrededor del mundo mediante donaciones automáticas con cada transacción.  
+## 🌐 Social Media & Community
 
-🐶 **Cada compra y venta ayuda a salvar vidas**.  
-🔥 **Eventos de quema programados** para aumentar la escasez del token.  
-🎁 **NFTs coleccionables y de recompensa** para fomentar la adopción de perros.  
-💰 **Staking y beneficios exclusivos** para holders comprometidos.  
-
-📍 **Explora más en:** [www.sydogs.io](https://www.sydogs.io)  
+- Telegram: [t.me/SYDOGSCommunity](https://t.me/SYDOGSCommunity)  
+- Twitter/X: [@SYDOGS_BNB](https://x.com/SYDOGS_BNB)  
+- Instagram: [@straydogs_token](https://instagram.com/straydogs_token)  
+- Pinterest: [StrayDogs_token](https://ar.pinterest.com/StrayDogs_token/)  
+- YouTube: [@STRAYDOGS-Token](https://www.youtube.com/@STRAYDOGS-Token)  
 
 ---
 
-## 📜 **Whitepaper y Documentación**
-📖 Nuestro whitepaper detalla la visión, tokenomics y estrategia del proyecto.  
-🔗 **Léelo aquí:** [GitBook Whitepaper](https://github.com/StrayDogs/whitepaper)  
+## 🤝 Contributions & Contact
+
+We welcome contributions and collaborations to improve the Stray Dogs ecosystem.  
+Open an issue or contact us via Telegram if you wish to contribute.
 
 ---
 
-## 🚀 **Redes Sociales & Comunidad**
-📢 **Únete a nuestra comunidad y sé parte del movimiento:**  
+🎯 **Stray Dogs | $SYDOGS – More than a token, a global Web3 movement.**  
+🔥 **#StrayDogs #CryptoForGood #SYDOGS**
 
-🐕 **Telegram:** [t.me/SYDOGS](https://t.me/SYDOGS)  
-🐦 **Twitter/X:** [x.com/sydogs_bnb](https://x.com/sydogs_bnb)  
-📷 **Instagram:** [instagram.com/straydogs_token](https://www.instagram.com/straydogs_token)  
-📌 **Pinterest:** [pinterest.com/StrayDogs_token](https://ar.pinterest.com/StrayDogs_token/)  
-🎥 **YouTube:** [youtube.com/@STRAYDOGS-Token](https://www.youtube.com/@STRAYDOGS-Token)  
+---
 
-💙 **Únete y sé parte de la revolución de Stray Dogs!**  
+# 🐾 Stray Dogs | $SYDOGS – Rescatando vidas, un token a la vez
+
+🚀 Bienvenidos al repositorio oficial de **Stray Dogs | $SYDOGS**  
+💎 **La memecoin con propósito real**: Cada transacción ayuda directamente a refugios de animales y rescatistas.
+
+---
+
+## 🌟 ¿Qué es Stray Dogs?
+
+Stray Dogs es un ecosistema Web3 basado en **BNB Chain**, con una misión clara:  
+**salvar perros callejeros, empoderar a la comunidad, y llevar ayuda real mediante tecnología blockchain.**
+
+🎯 Propósito: Rescate animal y acción social.  
+🐕 NFTs con recompensas y utilidad real.  
+💰 Tokenomics sostenible, sin presión especulativa.  
+🧬 Comunidad global con enfoque solidario.
+
+Más info en: [www.sydogs.io](https://www.sydogs.io)
+
+---
+
+## 📊 Tokenomics (Resumen)
+
+| Categoría        | Asignación | Notas                                  |
+|------------------|------------|----------------------------------------|
+| 🔄 Preventa      | 40%        | Venta pública en DxSale                |
+| 💧 Liquidez      | 15%        | Bloqueada                              |
+| 🌍 CEX / Comunidad | 6%       | Airdrops + listados                    |
+| 🐶 NFTs / Staking | 9%        | Recompensas por adopción y staking     |
+| ❤️ Fondo Solidario | 20%     | Liberación del 5% mensual              |
+| 📢 Marketing     | 5%         | Visibilidad real, sin hype             |
+| 👥 Equipo        | 5%         | Bloqueado 12 meses + liberación gradual|
+
+---
+
+## 📄 Documentos PDF
+
+Disponible en la carpeta `/docs`:
+
+- 📘 [Whitepaper_SYDOGS_v1.0_2025.pdf](./docs/Whitepaper_SYDOGS_v1.0_2025.pdf)  
+- 📊 [Tokenomics_SYDOGS_v1.0_2025.pdf](./docs/Tokenomics_SYDOGS_v1.0_2025.pdf)  
+- 🗺️ [Roadmap_SYDOGS_2025Q2.pdf](./docs/Roadmap_SYDOGS_2025Q2.pdf)
+
+---
+
+## 🌐 Redes Oficiales
+
+- Telegram: [t.me/SYDOGSCommunity](https://t.me/SYDOGSCommunity)  
+- Twitter/X: [@SYDOGS_BNB](https://x.com/SYDOGS_BNB)  
+- Instagram: [@straydogs_token](https://instagram.com/straydogs_token)  
+- Pinterest: [StrayDogs_token](https://ar.pinterest.com/StrayDogs_token/)  
+- YouTube: [@STRAYDOGS-Token](https://www.youtube.com/@STRAYDOGS-Token)
+
+---
+
+## 🤝 Colaboraciones & Contacto
+
+Aceptamos contribuciones técnicas y estratégicas.  
+Podés abrir un issue o contactarnos por Telegram si querés ayudar.
+
+---
+
+🎯 **Stray Dogs | $SYDOGS – Más que un token, un movimiento Web3 con impacto real.**  
+🔥 **#StrayDogs #CriptoConPropósito #SYDOGS**
+
 
 ---
 
